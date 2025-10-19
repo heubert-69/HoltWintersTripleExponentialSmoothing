@@ -45,5 +45,3 @@ Response:
 pip install -r requirements.txt
 uvicorn app:app --reload
 ```
-pip install -r requirements.txt
-uvicorn app:app --reload
